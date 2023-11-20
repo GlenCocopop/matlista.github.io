@@ -1,49 +1,47 @@
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
     color: #333;
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.container {
-    width: 80%;
-    margin: auto;
-    text-align: center;
+#container {
+    max-width: 600px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f8f8f8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-header h1 {
-    color: #ff4081;
-    padding: 20px 0;
+h1 {
+    color: #ff69b4;
 }
 
 button {
-    background-color: #ff4081;
+    background-color: #ff69b4;
     color: white;
     border: none;
     padding: 10px 20px;
-    font-size: 1.2em;
-    cursor: pointer;
+    margin: 10px 0;
     border-radius: 5px;
-    margin-top: 20px;
+    cursor: pointer;
+    font-size: 1em;
 }
 
 button:hover {
-    background-color: #ff80ab;
+    background-color: #ff85c1;
 }
 
-.output {
-    margin-top: 20px;
-    padding: 15px;
-    background-color: #e0f7fa;
-    border-radius: 5px;
-    color: #00695c;
-    display: none; /* Dold tills innehållet genereras */
+#menu p, #shoppingList li, #totalCost p {
+    color: #008000; /* Grön färg */
 }
 
-/* Responsivitet */
-@media (max-width: 768px) {
-    .container {
-        width: 95%;
-    }
+#shoppingList {
+    list-style-type: none;
+    padding: 0;
 }
