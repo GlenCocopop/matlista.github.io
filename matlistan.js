@@ -1,54 +1,37 @@
-// Ladda JSON-data från GitHub
-async function loadDishes() {
-    try {
-        const response = await fetch('https://glencocopop.github.io/matlistan/matlistan.json');
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        const data = await response.json();
-        return data;
-    } catch (e) {
-        console.error('Problem loading the dishes data:', e);
-    }
-}
+document.getElementById('generateButton').addEventListener('click', function() {
+    fetch('https://glencocopop.github.io/matlistan/matlista.json')
+    .then(response => response.json())
+    .then(data => {
+        generateMenu(data);
+    })
+    .catch(error => console.error('Error:', error));
+});
 
-// Generera Matsedel och Inköpslista
-function generateMenu(dishes) {
-    const menu = {};
-    const shoppingList = new Set();
+function generateMenu(data) {
+    const menuDiv = document.getElementById('menu');
+    const shoppingList = document.getElementById('shoppingList');
+    const totalCostDiv = document.getElementById('totalCost');
+
+    menuDiv.innerHTML = '';
+    shoppingList.innerHTML = '';
+    totalCostDiv.innerHTML = '';
+
     let totalCost = 0;
+    let ingredientsList = [];
 
-    for (const day in dishes) {
-        const dayDishes = dishes[day];
-        const selectedDish = dayDishes[Math.floor(Math.random() * dayDishes.length)];
-        menu[day] = selectedDish;
+    for (const day in data) {
+        const dishes = data[day];
+        const selectedDish = dishes[Math.floor(Math.random() * dishes.length)];
+        menuDiv.innerHTML += `<p>${day}: ${selectedDish.maträtt} - ${selectedDish.pris} kr</p>`;
         totalCost += selectedDish.pris;
 
-        selectedDish.ingredienser.forEach(ingredient => shoppingList.add(ingredient));
+        selectedDish.ingredienser.forEach(ingredient => {
+            if (!ingredientsList.includes(ingredient)) {
+                ingredientsList.push(ingredient);
+                shoppingList.innerHTML += `<li>${ingredient}</li>`;
+            }
+        });
     }
 
-    return { menu, shoppingList: Array.from(shoppingList), totalCost };
+    totalCostDiv.innerHTML = `<p>Total kostnad: ${totalCost} kr</p>`;
 }
-
-// Visa Resultatet på Webbsidan
-async function displayMenu() {
-    const dishes = await loadDishes();
-    const { menu, shoppingList, totalCost } = generateMenu(dishes);
-
-    const menuElement = document.getElementById('menu');
-    const shoppingListElement = document.getElementById('shoppingList');
-    const totalCostElement = document.getElementById('totalCost');
-
-    menuElement.innerHTML = '';
-    for (const day in menu) {
-        menuElement.innerHTML += `<p>${day}: ${menu[day].maträtt} - ${menu[day].pris} kr</p>`;
-    }
-
-    shoppingListElement.innerHTML = shoppingList.map(item => `<li>${item}</li>`).join('');
-    totalCostElement.textContent = `Total kostnad: ${totalCost} kr`;
-}
-
-document.addEventListener('DOMContentLoaded', () => {
-    const generateButton = document.getElementById('generateButton');
-    generateButton.addEventListener('click', displayMenu);
-});
