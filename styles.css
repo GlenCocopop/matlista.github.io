@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+header h1 {
+    color: #ff4081;
+    padding: 20px 0;
+}
+
+button {
+    background-color: #ff4081;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #ff80ab;
+}
+
+.output {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #e0f7fa;
+    border-radius: 5px;
+    color: #00695c;
+    display: none; /* Dold tills innehållet genereras */
+}
+
+/* Responsivitet */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+}
