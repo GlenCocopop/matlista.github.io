@@ -1,7 +1,13 @@
 document.getElementById('generateButton').addEventListener('click', function() {
     fetch('https://glencocopop.github.io/matlistan/matlista.json')
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+    })
     .then(data => {
+        console.log('Data loaded:', data); // Logga den laddade datan
         generateMenu(data);
     })
     .catch(error => console.error('Error:', error));
@@ -21,6 +27,8 @@ function generateMenu(data) {
 
     for (const day in data) {
         const dishes = data[day];
+        console.log(`${day}:`, dishes); // Logga rätter för varje dag
+
         const selectedDish = dishes[Math.floor(Math.random() * dishes.length)];
         menuDiv.innerHTML += `<p>${day}: ${selectedDish.maträtt} - ${selectedDish.pris} kr</p>`;
         totalCost += selectedDish.pris;
