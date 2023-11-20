@@ -1,0 +1,1608 @@
+{
+    "Måndag": [
+        {
+            "maträtt": "Spaghetti med Skolsås",
+            "ingredienser": [
+                "400 gram spaghetti",
+                "400 gram fläskfärs",
+                "1 lök, hackad",
+                "2 vitlöksklyftor, finhackade",
+                "400 gram krossade tomater",
+                "en tub sofritto/tomatpuré",
+                "2 teskedar torkad oregano",
+                "En skvätt grädde",
+                "Riven parmesanost",
+                "Färsk basilika eller persilja"
+            ],
+            "pris": 135
+        },
+        {
+            "maträtt": "Pasta Carbonara",
+            "ingredienser": [
+                "400 gram spaghetti",
+                "150 gram rökt sidfläsk, tärnat",
+                "3 ägg",
+                "1 skvätt grädde om man vill",
+                "1 1/2 dl riven parmesanost",
+                "2 vitlöksklyftor",
+                "Färsk persilja"
+            ],
+            "pris": 105
+        },
+        {
+            "maträtt": "Linguine med röd/grön pestosås, babyspenat och körsbärstomater",
+            "ingredienser": [
+                "400 gram Linguine",
+                "3 matskedar pesto",
+                "1 dl grädde",
+                "100 gram babyspenatblad",
+                "200 gram körsbärstomater",
+                "2 matskedar olivolja",
+                "Riven parmesanost",
+                "Färsk basilika eller persilja som garnityr"
+            ],
+            "pris": 100
+        },
+        {
+            "maträtt": "Rigatoni med salsiccia och tomatsås",
+            "ingredienser": [
+                "400 gram rigatoni",
+                "250 gram färsk Salsiccia",
+                "400 gram krossade tomater",
+                "Tomatpuré",
+                "1 lök",
+                "2 vitlöksklyftor",
+                "2 matskedar olivolja",
+                "En nypa torkad oregano",
+                "Färsk basilika eller persilja",
+                "Riven parmesanost"
+            ],
+            "pris": 115
+        },
+        {
+            "maträtt": "Pappardelle med svampsås och timjan",
+            "ingredienser": [
+                "400 gram Pappardelle-pasta",
+                "400 gram blandade svampar",
+                "2 vitlöksklyftor",
+                "1 lök",
+                "2 matskedar olivolja",
+                "2 matskedar smör",
+                "2 teskedar torkad timjan",
+                "2 dl grädde",
+                "Riven parmesanost"
+            ],
+            "pris": 135
+        },
+        {
+            "maträtt": "Gnocchi med salsiccia och tomatsås",
+            "ingredienser": [
+                "500 gram Gnocchi",
+                "250 gram färsk Salsiccia",
+                "400 gram krossade tomater",
+                "Tomatpuré",
+                "1 lök",
+                "2 vitlöksklyftor",
+                "2 matskedar olivolja",
+                "En nypa torkad oregano",
+                "Färsk basilika eller persilja",
+                "Riven parmesanost"
+            ],
+            "pris": 130
+        },
+        {
+            "maträtt": "Gnocchi med Salviasmör och tärnat sidfläsk",
+            "ingredienser": [
+                "500 gram Gnocchi",
+                "150 gram Sidfläsk, tärnat",
+                "10-12 blad Färsk salvia",
+                "4-5 matskedar Smör",
+                "Riven parmesanost"
+            ],
+            "pris": 100
+        },
+        {
+            "maträtt": "Chicken Alfredo",
+            "ingredienser": [
+                "400 gram färsk pasta",
+                "4 kycklinglår",
+                "200 gram smör",
+                "2 dl grädde",
+                "1 1/2 dl parmesanost",
+                "Färsk persilja"
+            ],
+            "pris": 115
+        }
+    ],
+    "Tisdag": [
+        {
+            "maträtt": "Zuppa Toscana",
+            "ingredienser": [
+                "400 gram färsk italiensk korv",
+                "4 matskedar smör",
+                "1⁄2 gul lök tärnad",
+                "3 vitlöksklyftor",
+                "1,5 liter kycklingbuljong",
+                "5 potatisar",
+                "2 dl vispgrädde",
+                "En näve hackad grönkål",
+                "Riven parmesanost"
+            ],
+            "pris": 110
+        },
+        {
+            "maträtt": "Tomatsoppa",
+            "ingredienser": [
+                "1 burk krossade tomater",
+                "1 tub tomatpuré/sofritto",
+                "1 lök, hackad",
+                "2 vitlöksklyftor, finhackade",
+                "4 dl grönsaksbuljong",
+                "1 tesked torkad basilika",
+                "1 tesked torkad oregano",
+                "1 skvätt grädde",
+                "100 gram valfri pasta",
+                "Färsk basilika eller persilja"
+            ],
+            "pris": 70
+        },
+        {
+            "maträtt": "Ärtsoppa med pannkakor",
+            "ingredienser": [
+                "1 tub ärtsoppa",
+                "500g Tärnat fläsk",
+                "1 knippe Timjan",
+                "1 tub Senap",
+                "Sylt"
+            ],
+            "pris": 75
+        },
+        {
+            "maträtt": "Potatis- och purjolökssoppa",
+            "ingredienser": [
+                "5 medelstora potatisar",
+                "1 purjolök",
+                "1 lök",
+                "2 matskedar smör",
+                "1 liter hönsbuljong",
+                "1 skvätt mjölk"
+            ],
+            "pris": 50
+        },
+        {
+            "maträtt": "Misosoppa delux",
+            "ingredienser": [
+                "1 färdig misosoppa",
+                "200g färsk lax",
+                "200g färsk tonfisk",
+                "400g edamame med skidor",
+                "2 dl vetemjöl",
+                "Olja till frittering",
+                "1 skvätt soya",
+                "1 bit ingefära",
+                "Valfria grönsaker att frittera"
+            ],
+            "pris": 245
+        },
+        {
+            "maträtt": "Kycklingsoppa",
+            "ingredienser": [
+                "4 kycklinglår (ca 500 gram), benade",
+                "1 msk olivolja",
+                "1 lök",
+                "2 morötter",
+                "2 selleristjälkar",
+                "2 vitlöksklyftor",
+                "8 dl kycklingbuljong",
+                "150 gram capellini",
+                "1 tsk torkad timjan",
+                "1 tsk torkad oregano",
+                "Färsk persilja"
+            ],
+            "pris": 140
+        },
+        {
+            "maträtt": "Linsoppa",
+            "ingredienser": [
+                "2 dl röda linser",
+                "1 lök",
+                "2 morötter",
+                "2 selleristjälkar",
+                "2 vitlöksklyftor",
+                "8 dl grönsaksbuljong",
+                "1 tsk spiskummin",
+                "1 tsk paprikapulver",
+                "1 tsk five-spices",
+                "Färsk koriander"
+            ],
+            "pris": 75
+        },
+        {
+            "maträtt": "Minestronesoppa",
+            "ingredienser": [
+                "2 msk olivolja",
+                "1 lök, hackad",
+                "2 morötter",
+                "2 selleristjälkar",
+                "2 vitlöksklyftor",
+                "1 tsk paprikapulver",
+                "1 tsk torkad oregano",
+                "1 tsk torkad basilika",
+                "1 dl gröna bönor",
+                "1 dl stora vita bönor",
+                "2 dl kål, strimlad",
+                "1 burk krossade tomater",
+                "8 dl grönsaksbuljong",
+                "150 gram pasta"
+            ],
+            "pris": 90
+        },
+        {
+            "maträtt": "Oxsvanssoppa",
+            "ingredienser": [
+                "1 kg oxsvans",
+                "1 lök",
+                "2 morötter",
+                "2 selleristjälkar",
+                "2 vitlöksklyftor",
+                "2 liter oxsfond",
+                "1 tub tomatpuré",
+                "2 tsk torkad timjan",
+                "2 tsk torkad rosmarin",
+                "Färsk persilja"
+            ],
+            "pris": 200
+        },
+        {
+            "maträtt": "Tonkutsu Ramen",
+            "ingredienser": [
+                "500 gram fläskben (grisfötter, eller fläskben fungerar)",
+                "1 lök",
+                "4 vitlöksklyftor",
+                "1 hel färsk ingefära",
+                "8 dl kycklingbuljong",
+                "5 msk sojasås",
+                "2 msk socker",
+                "400g fläsksida",
+                "Mirin",
+                "500 gram ramennudlar",
+                "Salladslök",
+                "1 burk bambuskott",
+                "2 ägg"
+            ],
+            "pris": 195
+        },
+        {
+            "maträtt": "Gulaschsoppa",
+            "ingredienser": [
+                "500 gram högrev",
+                "1 lök",
+                "2 vitlöksklyftor",
+                "2 morötter",
+                "2 potatisar",
+                "1 röd paprika",
+                "1 tsk paprikapulver (vanlig eller rökt)",
+                "1 tsk torkad mejram",
+                "8 dl oxfond",
+                "2 dl krossade tomater",
+                "Färsk persilja"
+            ],
+            "pris": 155
+        },
+        {
+            "maträtt": "Pho",
+            "ingredienser": [
+                "400 gram nötkött (t.ex. entrecote eller flankstek)",
+                "1 lök",
+                "1 tumme ingefära",
+                "2 stjälkar citrongräs",
+                "1-2 msk five spices",
+                "En skvätt fisksås",
+                "400 gram risnudlar",
+                "Färsk koriander",
+                "1 lime",
+                "1 röd chili",
+                "Böngroddar",
+                "Hoisinsås (valfritt)"
+            ],
+            "pris": 165
+        },
+        {
+            "maträtt": "Fransk löksoppa",
+            "ingredienser": [
+                "4 gula lökar",
+                "4 dl oxfond",
+                "2 dl vitt vin",
+                "2 vitlöksklyftor",
+                "1 tsk torkad timjan (eller färsk om tillgänglig)",
+                "1 baguette",
+                "200 gram gruyèreost eller annan lagrad ost",
+                "Färsk persilja"
+            ],
+            "pris": 107
+        },
+        {
+            "maträtt": "Ewys Morotssoppa",
+            "ingredienser": [
+                "500 gram morötter",
+                "1 lök",
+                "3 dl grönsaksbuljong",
+                "1 dl hönsbuljong",
+                "1 tsk torkad timjan (eller färsk om tillgänglig)",
+                "Färsk persilja"
+            ],
+            "pris": 52
+        },
+        {
+            "maträtt": "Tom Kha Gai",
+            "ingredienser": [
+                "400 gram kycklinglår",
+                "400 ml kokosmjölk",
+                "4 dl kycklingbuljong",
+                "1 stjälk citrongräs",
+                "3 skivor galangal (eller ingefära)",
+                "3-4 kaffir limeblad (om du har tillgång)",
+                "1 röd chili",
+                "200 gram svamp, skivade (t.ex. champinjoner eller shiitake)",
+                "2-3 msk fisksås",
+                "1 msk socker",
+                "2 limefrukter",
+                "Färsk koriander"
+            ],
+            "pris": 123
+        },
+        {
+            "maträtt": "Cullen Skink",
+            "ingredienser": [
+                "500 gram böcklingfilé",
+                "500 gram potatis",
+                "1 lök",
+                "2 dl grädde",
+                "1 liter mjölk",
+                "2 msk smör",
+                "Färsk persilja"
+            ],
+            "pris": 87
+        },
+        {
+            "maträtt": "Crustig JordnötsSopa",
+            "ingredienser": [
+                "1 lök",
+                "2 vitlöksklyftor",
+                "500 gram soppgrönsaker",
+                "5 potatisar",
+                "3 dl grönsaksbuljong",
+                "1 dl hönsbuljong",
+                "1 dl kokosmjölk",
+                "1 burk sataysås",
+                "2 msk sojasås",
+                "1 bit färsk ingefära",
+                "1 lime",
+                "1 dl hackade jordnötter"
+            ],
+            "pris": 95
+        },
+        {
+            "maträtt": "Farmer Soup",
+            "ingredienser": [
+                "3 paket bacon",
+                "500 g potatis",
+                "1 lök",
+                "1/2 purjolök",
+                "1/2 tsk paprikapulver",
+                "4 dl hönsbuljong",
+                "1 skvätt grädde",
+                "1 skvätt mjölk"
+            ],
+            "pris": 99
+        }
+    ],
+    "Onsdag": [
+        {
+            "maträtt": "Färsbiffar med tzatziki och klyftpotatis",
+            "ingredienser": [
+                "500 gram köttfärs",
+                "1 lök",
+                "4 vitlöksklyftor",
+                "1 ägg",
+                "1 dl ströbröd",
+                "1 tsk torkad oregano",
+                "1 gurka",
+                "2 dl grekisk yoghurt",
+                "1 citron",
+                "2 msk dill",
+                "1 påse klyftpotatis",
+                "1 tsk torkad rosmarin"
+            ],
+            "pris": 98
+        },
+        {
+            "maträtt": "Pannbiff med lök och brunsås",
+            "ingredienser": [
+                "500 gram köttfärs",
+                "1 lök",
+                "1 ägg",
+                "1 dl ströbröd",
+                "3 msk smör",
+                "3 msk vetemjöl",
+                "5 dl oxfond",
+                "1 skvätt grädde",
+                "10 st potatisar"
+            ],
+            "pris": 92
+        },
+        {
+            "maträtt": "Tom Yam och färsdumplings",
+            "ingredienser": [
+                "4 dl vetemjöl",
+                "250 gram fläskfärs eller kycklingfärs",
+                "1 msk sojasås",
+                "1 tsk sesamolja",
+                "2 vitlöksklyftor",
+                "1 tumme ingefära",
+                "4 salladslökar",
+                "1 burk Tom Yam Soppa"
+            ],
+            "pris": 74
+        },
+        {
+            "maträtt": "Gyoza med ris",
+            "ingredienser": [
+                "250 gram fläskfärs",
+                "2 vitlöksklyftor",
+                "2 cm färsk ingefära",
+                "4 msk sojasås",
+                "2 tsk sesamolja",
+                "1 dl vitkål",
+                "3 salladslökar",
+                "2,5 dl vetemjöl",
+                "1 msk risvinäger"
+            ],
+            "pris": 67
+        },
+        {
+            "maträtt": "Kålpudding",
+            "ingredienser": [
+                "500 gram fläskfärs",
+                "1 kålhuvud",
+                "1 lök",
+                "1 ägg",
+                "2 dl mjölk",
+                "2 dl köttbuljong",
+                "2 msk vetemjöl",
+                "2 msk smör",
+                "1-2 dl ljus sirap",
+                "10 potatisar"
+            ],
+            "pris": 130
+        },
+        {
+            "maträtt": "Vietnamesiska vårrullar med färs och svamp",
+            "ingredienser": [
+                "12 rispapper",
+                "200 gram fläskfärs",
+                "100 gram svamp (t.ex. shiitake eller champinjoner)",
+                "1 lök",
+                "2 vitlöksklyftor",
+                "2 tsk sesamolja",
+                "2 msk sojasås",
+                "Färsk koriander",
+                "1 salladsblad (eller spetskål)",
+                "1 burk böngroddar",
+                "Gurka, tunt skivad",
+                "Morot, tunt skivad",
+                "300 g Vermicelli",
+                "3 msk fisksås",
+                "2 msk risvinäger",
+                "1 vitlöksklyfta",
+                "1 röd chili",
+                "4 dl ris"
+            ],
+            "pris": 158
+        },
+        {
+            "maträtt": "Kåldolmar med potatis, brunsås och lingon",
+            "ingredienser": [
+                "1 stor vitkålshuvud",
+                "500 gram fläskfärs",
+                "1 lök",
+                "1 ägg",
+                "10 potatisar",
+                "2 dl köttbuljong",
+                "3 dl grädde",
+                "2 msk vetemjöl",
+                "1,5 dl lingonsylt"
+            ],
+            "pris": 114
+        },
+        {
+            "maträtt": "Köttfärspaj med sallad",
+            "ingredienser": [
+                "2,5 dl vetemjöl",
+                "125 gram smör",
+                "500 gram fläskfärs",
+                "1 lök",
+                "2 vitlöksklyftor",
+                "150g riven cheddar och mozzarella mix",
+                "2 dl grädde",
+                "3 ägg",
+                "1 nypa muskotnöt",
+                "1 näve babyspenat",
+                "200 g körsbärstomater",
+                "1 gurka, skivad",
+                "1 rödlök"
+            ],
+            "pris": 159
+        },
+        {
+            "maträtt": "Cheeseburgare med pommes frites",
+            "ingredienser": [
+                "500 gram nötfärs",
+                "4 hamburgerbröd",
+                "1 liten lök",
+                "1 tomat",
+                "4 skivor cheddarost eller valfri ost",
+                "1/2 tub hamburgerdressing",
+                "1 påse pommes frites"
+            ],
+            "pris": 135
+        },
+        {
+            "maträtt": "Köttbullar med brunsås och lingon",
+            "ingredienser": [
+                "500 gram fläskfärs",
+                "1 lök",
+                "1 dl ströbröd",
+                "1 ägg",
+                "2 dl köttbuljong",
+                "2 dl grädde",
+                "2 msk vetemjöl",
+                "2,5 dl lingonsylt"
+            ],
+            "pris": 90
+        },
+        {
+            "maträtt": "Polpette med tomatsås och spaghetti",
+            "ingredienser": [
+                "500 gram fläskfärs",
+                "1 lök",
+                "2 vitlöksklyftor",
+                "1/2 dl ströbröd",
+                "1/4 dl mjölk",
+                "1/4 dl färsk persilja",
+                "1/4 dl riven parmesanost",
+                "1 ägg",
+                "1 burk krossade tomater",
+                "2 vitlöksklyftor",
+                "1 tub tomatpuré",
+                "1 tsk torkad oregano",
+                "400 g spaghetti"
+            ],
+            "pris": 104
+        },
+        {
+            "maträtt": "Köttfärs och potatisgratäng",
+            "ingredienser": [
+                "500 gram fläskfärs",
+                "5 stora potatisar",
+                "1 lök",
+                "2 vitlöksklyftor",
+                "1 morot",
+                "2 dl riven ost",
+                "3 dl grädde",
+                "2 dl mjölk",
+                "2 msk smör",
+                "2 msk vetemjöl",
+                "Färsk persilja"
+            ],
+            "pris": 117
+        },
+        {
+            "maträtt": "Korvgryta med ris",
+            "ingredienser": [
+                "400 gram korv",
+                "1 lök",
+                "1 vitlöksklyfta",
+                "2 morötter",
+                "1 purjolök",
+                "4 dl grönsaksbuljong",
+                "2 dl grädde",
+                "2 msk smör",
+                "2 msk vetemjöl",
+                "Färsk persilja eller timjan",
+                "4 dl ris"
+            ],
+            "pris": 63
+        },
+        {
+            "maträtt": "Tysk korvbricka med tillbehör",
+            "ingredienser": [
+                "500 gram vetemjöl",
+                "1 paket torrjäst",
+                "1 msk bikarbonat",
+                "400g tysk korv",
+                "1/2 tub senap",
+                "3 dl Sauerkraut",
+                "4 inlagda gurkor",
+                "500 gram potatis",
+                "1/2 lök",
+                "1 paket bacon",
+                "1/4 dl äppelcidervinäger",
+                "1/4 dl grönsaksbuljong",
+                "1 msk neutral olja",
+                "Färsk persilja"
+            ],
+            "pris": 127
+        },
+        {
+            "maträtt": "Dansk korvbricka",
+            "ingredienser": [
+                "1 paket rød pølse",
+                "4 matskedar rostad lök",
+                "4 matskedar remoulade",
+                "6 korvbröd",
+                "2 dl Syltlök",
+                "400g färdig potatissallad"
+            ],
+            "pris": 90
+        },
+        {
+            "maträtt": "Korv med Mos",
+            "ingredienser": [
+                "8 korvar (wienerkorv)",
+                "700 gram potatisar",
+                "4 msk smör",
+                "1 dl mjölk"
+            ],
+            "pris": 87
+        },
+        {
+            "maträtt": "French Hotdog",
+            "ingredienser": [
+                "1 baguette",
+                "4 tjocka korvar (t.ex. ost och bacon)",
+                "1 tub French Hotdog dressing"
+            ],
+            "pris": 65
+        },
+        {
+            "maträtt": "Korvstroganoff",
+            "ingredienser": [
+                "400 gram falukorv",
+                "1 lök",
+                "1 dl grädde",
+                "2 msk tomatpuré",
+                "1 tsk chilipulver",
+                "4 dl ris"
+            ],
+            "pris": 46
+        },
+        {
+            "maträtt": "Falukorv och stuvade makaroner",
+            "ingredienser": [
+                "500 gram falukorv",
+                "250 gram makaroner",
+                "2 msk smör",
+                "2 msk vetemjöl",
+                "4 dl mjölk",
+                "En nypa muskotnöt (valfritt)",
+                "Färsk persilja (valfritt)"
+            ],
+            "pris": 57
+        },
+        {
+            "maträtt": "Fläsk och löksås",
+            "ingredienser": [
+                "2 paket stekfläsk",
+                "10 små potatisar",
+                "3 lökar",
+                "2 dl grädde",
+                "1 msk soja",
+                "2 msk smör",
+                "2 msk vetemjöl"
+            ],
+            "pris": 89
+        }
+    ],
+    "Torsdag": [
+        {
+            "maträtt": "Kycklingnuggets med klyftpotatis och fancy sås",
+            "ingredienser": [
+                "1 påse kycklingnuggets",
+                "1 påse klyftpotatis",
+                "1 tsk torkad rosmarin",
+                "1 dl majonäs",
+                "1 dl ketchup"
+            ],
+            "pris": 65
+        },
+        {
+            "maträtt": "Friterad kycklingburgare med pommes",
+            "ingredienser": [
+                "4 kycklinglårfileer",
+                "2 dl vetemjöl",
+                "2 ägg",
+                "2 dl panko",
+                "1 tsk paprikapulver",
+                "1 tsk vitlökspulver",
+                "Matolja för fritering",
+                "4 hamburgerbröd",
+                "1 litet salladshuvud",
+                "1 tomat",
+                "1 rödlök",
+                "8 skivor Inlagd gurka",
+                "1/2 dl majonäs",
+                "1 dl cremefraiche",
+                "2 vitlöksklyftor",
+                "1 påse pommes frittes"
+            ],
+            "pris": 203
+        },
+        {
+            "maträtt": "Kycklinggrillspett med hummus och arabiskt bröd",
+            "ingredienser": [
+                "400 g kycklinglårfilé",
+                "1 paprika",
+                "4 halvor majskolvar",
+                "1 tsk spiskummin",
+                "1 tsk paprikapulver",
+                "1 tsk vitlökspulver",
+                "1 paket köpt hummus",
+                "1 paket libabröd"
+            ],
+            "pris": 125
+        },
+        {
+            "maträtt": "Kycklingwok/fläskwok",
+            "ingredienser": [
+                "400 g kycklinglårsfilé eller fläskkött",
+                "2 vitlöksklyftor",
+                "1 tsk färsk ingefära",
+                "3 msk sojasås",
+                "2 msk oystersås",
+                "1 msk fisksås",
+                "1 lime",
+                "4 dl ris",
+                "1-2 paprikor",
+                "1 liten broccoli",
+                "2 morötter",
+                "1/4 vitkålshuvud"
+            ],
+            "pris": 135
+        },
+        {
+            "maträtt": "Kycklingfajitas med Nachos Salsa och guacamole",
+            "ingredienser": [
+                "400 g kycklinglårfilé",
+                "1 påse fajitaskryddor",
+                "8 st tortillabröd",
+                "1 burk salsa",
+                "1 påse nachos",
+                "2 avokados",
+                "2 tomater",
+                "1 rödlök",
+                "2 lime",
+                "Färsk koriander",
+                "2 dl créme fraîche"
+            ],
+            "pris": 165
+        },
+        {
+            "maträtt": "Sticky pork/chicken med ris",
+            "ingredienser": [
+                "400 g fläskkött/kycklinglårfilé",
+                "3 msk sojasås",
+                "2 msk honung",
+                "2 msk hoisinsås",
+                "2 msk risvinäger",
+                "1 tsk riven färsk ingefära",
+                "2 vitlöksklyftor, finhackade",
+                "1/2 tsk bakpulver (för att göra köttet krispigt)",
+                "1 msk potatismjöl",
+                "Sesamfrön",
+                "Färsk koriander",
+                "4 dl ris"
+            ],
+            "pris": 116
+        },
+        {
+            "maträtt": "Barbecuemarinerade kycklingklubbor/kycklingvingar (Coleslaw och Grillade majskolvar)",
+            "ingredienser": [
+                "12 kycklingklubbor och/eller kycklingvingar",
+                "2 dl barbecuesås",
+                "1/2 vitkålshuvud",
+                "2 morötter",
+                "1/2 rödlök",
+                "1/2 dl majonnäs",
+                "1 msk dijonsenap",
+                "2 msk vitvinsvinäger",
+                "2 tsk socker",
+                "1 paket halverade förkokta majskolvar"
+            ],
+            "pris": 202
+        },
+        {
+            "maträtt": "Buffalo kycklingklubbor/kycklingvingar (Blåmögelostsås, Cheezy Nachos med jalapeños)",
+            "ingredienser": [
+                "12 kycklingklubbor och/eller kycklingvingar",
+                "1 dl het sås",
+                "3 msk smör",
+                "2 selleristjälkar",
+                "3 morötter",
+                "1 dl crème fraîche eller gräddfil",
+                "1 dl blåmögelost",
+                "1 vitlöksklyfta",
+                "200 g nachochips",
+                "1 1/2 dl riven cheddarost eller nachosmältost",
+                "1/2 dl jalapeños",
+                "1/2 dl gräddfil"
+            ],
+            "pris": 235
+        },
+        {
+            "maträtt": "Honey-Mustard kycklingklubbor/kycklingvingar (Broccoli med smör och parmesan, Klyftpotatis med rosmarin)",
+            "ingredienser": [
+                "12 kycklingklubbor och/eller kycklingvingar",
+                "1/2 dl honung",
+                "2 msk Dijonsenap",
+                "2 msk smör",
+                "1 broccoli",
+                "2 msk smör (för broccolin)",
+                "1/4 dl parmesanost",
+                "1 påse klyftpotatis",
+                "1 tsk rosmarin"
+            ],
+            "pris": 200
+        },
+        {
+            "maträtt": "Teriyaki kycklingklubbor/kycklingvingar (jasminris Wokade grönsaker och kimchi)",
+            "ingredienser": [
+                "12 kycklingklubbor och/eller kycklingvingar",
+                "1 dl teriyakisås",
+                "2 msk sojasås",
+                "2 msk honung",
+                "1 tsk färsk ingefära",
+                "2 vitlöksklyftor",
+                "Sesamfrön",
+                "1 salladslök",
+                "4 dl jasminris",
+                "1 röd paprika",
+                "1 gul paprika",
+                "2 morötter",
+                "200 gram broccoli",
+                "100 gram vitkål",
+                "4 dl kimchi"
+            ],
+            "pris": 230
+        },
+        {
+            "maträtt": "Sötsyrliga kycklingklubbor/kycklingvingar (rostade rotsaker och grekisk sallad)",
+            "ingredienser": [
+                "12 kycklingklubbor eller kycklingvingar",
+                "1/2 dl aprikosmarmelad",
+                "2 msk äppelcidervinäger",
+                "2 msk sojasås",
+                "Färsk timjan eller rosmarin (valfritt)",
+                "500 g rotsaker",
+                "4 tomater",
+                "1/2 gurka",
+                "1/2 rödlök",
+                "150 g fetaost, smulad",
+                "1/2 burk oliver",
+                "1 tsk torkad oregano",
+                "2 msk rödvinsvinäger"
+            ],
+            "pris": 245
+        },
+        {
+            "maträtt": "Citron- och vitlökskycklingklubbor/kycklingvingar",
+            "ingredienser": [
+                "12 kycklingklubbor och/eller kycklingvingar",
+                "1 citron",
+                "8 vitlöksklyftor",
+                "Färsk persilja eller timjan",
+                "5 stora potatisar",
+                "1/2 dl mjölk",
+                "4 msk smör",
+                "250 g gröna bönor"
+            ],
+            "pris": 192
+        },
+        {
+            "maträtt": "Fish Tacos",
+            "ingredienser": [
+                "4 st vitfiskfiléer",
+                "2,5 dl vetemjöl",
+                "1 tsk paprika",
+                "1/2 tsk cayennepeppar",
+                "1 dl corona (öl)",
+                "2 ägg",
+                "Matolja för fritering",
+                "8 små tortillabröd eller taco-skålar",
+                "1 burk salsa",
+                "1 avocado",
+                "4 japalenos",
+                "1 dl Crème fraîche",
+                "Färsk koriander",
+                "2 lime"
+            ],
+            "pris": 206
+        },
+        {
+            "maträtt": "Fiskpinnar med Potatismos",
+            "ingredienser": [
+                "1/2 paket fiskpinnar",
+                "5 stora potatisar",
+                "2 dl mjölk",
+                "2 msk smör",
+                "2 dl crème fraîche",
+                "1 squirt majonnäs",
+                "1/2 dl bostongurka",
+                "1 tsk lökpulver",
+                "4 dl gröna ärtor"
+            ],
+            "pris": 67
+        },
+        {
+            "maträtt": "Lax i ugn med fetaosttäcke (kokt potatis, citron och dill sås)",
+            "ingredienser": [
+                "10 små potatisar",
+                "4 laxfiléer",
+                "150 g fetaost",
+                "2 vitlöksklyftor",
+                "1/4 dl färsk basilika, hackad (eller torkad basilika om färsk inte är tillgänglig)",
+                "1/4 dl hackade soltorkade tomater",
+                "2 citroner",
+                "1 dl majonnäs",
+                "2 tsk dill",
+                "1 tsk honung"
+            ],
+            "pris": 201
+        },
+        {
+            "maträtt": "Fisksoppa",
+            "ingredienser": [
+                "500 g fryst vit fiskfilé",
+                "250 g fryst laxfilé",
+                "1 gul lök",
+                "2 morötter",
+                "2 selleristjälkar",
+                "2 vitlöksklyftor",
+                "1 burk krossade tomater",
+                "1 liter fiskfond",
+                "1 dl vitt vin",
+                "2 tsk torkad timjan",
+                "Färsk persilja",
+                "1 skvätt grädde"
+            ],
+            "pris": 214
+        },
+        {
+            "maträtt": "Skaldjurssoppa",
+            "ingredienser": [
+                "400 g färska räkor",
+                "1 lök",
+                "2 vitlöksklyftor",
+                "1 morot",
+                "1 msk tomatpuré",
+                "1 selleristjälk",
+                "1 fänkålsstånd",
+                "1 burk krossade tomater",
+                "1 liter skaldjursfond",
+                "1 dl vitt vin (valfritt)",
+                "1 dl vispgrädde",
+                "2 msk smör",
+                "2 tsk torkad dragon",
+                "Färsk persilja",
+                "1 citron"
+            ],
+            "pris": 223
+        },
+        {
+            "maträtt": "Moules-frites",
+            "ingredienser": [
+                "1 kg färska blå musslor",
+                "1 lök",
+                "2 vitlöksklyftor",
+                "2 dl torrt vitt vin (helst från Alsace eller Chardonnay, eller bubbel)",
+                "2 dl grädde",
+                "Färsk persilja",
+                "Olja för fritering av pommes frites",
+                "1 påse pommes frittes (tjocka)",
+                "2 dl aioli",
+                "1 baguette"
+            ],
+            "pris": 212
+        },
+        {
+            "maträtt": "Blåmusselsoppa",
+            "ingredienser": [
+                "1 kg färska blåmusslor",
+                "1 lök",
+                "2 vitlöksklyftor",
+                "1 morot (skalad och tärnad)",
+                "1 selleristjälk",
+                "1 dl vitt vin",
+                "1 liter fiskbuljong",
+                "2 dl grädde",
+                "2 tsk timjan",
+                "Färsk persilja",
+                "1 baguette"
+            ],
+            "pris": 182
+        },
+        {
+            "maträtt": "Fiskgratäng",
+            "ingredienser": [
+                "500 g torskfilé (fryst)",
+                "1 dl räkor",
+                "1 lök",
+                "2 msk vetemjöl",
+                "4 dl mjölk",
+                "1 dl grädde",
+                "1 citron",
+                "1 dl dill",
+                "500 g potatis"
+            ],
+            "pris": 150
+        }
+    ],
+    "Fredag": [
+        {
+            "maträtt": "Honey-Glazed Baby Back Ribs med majs och dirty fries",
+            "ingredienser": [
+                "1,5 kg baby back ribs",
+                "1/2 dl honung",
+                "2 msk sojasås",
+                "2 tsk vitlökspulver",
+                "1 tsk lökpulver",
+                "1 tsk paprikapulver",
+                "4 förkokta majskolvar",
+                "1 paket pommes frittes",
+                "Olja att frittera i",
+                "1 tsk paprikapulver",
+                "1 tsk lökpulver",
+                "1 tsk vitlökspulver",
+                "1/2 tsk chilipulver",
+                "200 g cheddarost",
+                "100 g bacon"
+            ],
+            "pris": 260
+        },
+        {
+            "maträtt": "Revben i ugnen med örtskorpa med potatismos och smörstekta gröna bönor",
+            "ingredienser": [
+                "1,5 kg revben",
+                "2 dl ströbröd",
+                "2 msk färsk persilja",
+                "2 tsk torkad rosmarin",
+                "2 tsk torkad timjan",
+                "6 stora potatisar",
+                "2 dl mjölk",
+                "2 msk smör",
+                "300 g gröna bönor",
+                "3 vitlöksklyftor"
+            ],
+            "pris": 212
+        },
+        {
+            "maträtt": "Sweet and Smoky Baby Back Ribs med rotfruktsgratäng",
+            "ingredienser": [
+                "1,5 kg baby back ribs",
+                "2 dl BBQ-sås",
+                "2 tsk rökt paprikapulver",
+                "1 tsk vitlökspulver",
+                "1 tsk lökpulver",
+                "1 tsk brunt socker",
+                "500 g rotfrukter",
+                "2 dl grädde",
+                "2 dl mjölk",
+                "2 vitlöksklyftor",
+                "1 tsk torkad timjan",
+                "100 g riven ost"
+            ],
+            "pris": 227
+        },
+        {
+            "maträtt": "Klassiska BBQ Revben med majskolv och coleslaw",
+            "ingredienser": [
+                "1,5 kg revben",
+                "2 dl BBQ-sås",
+                "2 tsk paprikapulver",
+                "1 tsk chilipulver",
+                "4 förkokta majskolvar",
+                "4 dl vitkål",
+                "2 dl morot",
+                "1/2 dl majonnäs",
+                "1/2 dl gräddfil",
+                "2 tsk vitvinsvinäger",
+                "1 tsk socker"
+            ],
+            "pris": 227
+        },
+        {
+            "maträtt": "Revben med ölmarinad med pommes frites",
+            "ingredienser": [
+                "1,5 kg revben",
+                "3 dl öl (helst mörkt öl för en rikare smak)",
+                "1 dl ketchup",
+                "3 msk sojasås",
+                "2 msk flytande honung",
+                "2 vitlöksklyftor, pressade",
+                "1 tsk paprikapulver",
+                "1 tsk lökpulver",
+                "1 påse pommes frittes",
+                "olja att frittera i"
+            ],
+            "pris": 227
+        },
+        {
+            "maträtt": "Grillad Fläskkarre med Potatisgratäng smörstekt sparris och en vitlökssmörssås",
+            "ingredienser": [
+                "4 bitar fläskkarre",
+                "800 g potatis",
+                "2 dl mjölk",
+                "1 lök",
+                "100 g riven ost (till exempel cheddar eller gruyère)",
+                "250 g sparris",
+                "6 msk smör",
+                "4 vitlöksklyftor",
+                "4 dl grädde"
+            ],
+            "pris": 231
+        },
+        {
+            "maträtt": "Stekfläsk med Pepparsås klyftpotatis och gröna ärtor",
+            "ingredienser": [
+                "400 g stekfläsk",
+                "2 dl grädde",
+                "4 msk smör",
+                "1 msk dijonsenap",
+                "1 msk konjak",
+                "1 paket klyftpotatis",
+                "1 tsk rosmarin eller timjan",
+                "4 dl frysta gröna ärtor"
+            ],
+            "pris": 101
+        },
+        {
+            "maträtt": "Fläsksida med Örtsmör potatismos och ärtor",
+            "ingredienser": [
+                "400 g fläsksida",
+                "2 tsk färsk timjan (eller 1 tsk torkad timjan)",
+                "2 tsk färsk rosmarin (eller 1 tsk torkad rosmarin)",
+                "2 vitlöksklyftor",
+                "800 g potatis",
+                "8 msk smör",
+                "1 dl mjölk",
+                "4 dl frysta ärtor"
+            ],
+            "pris": 92
+        },
+        {
+            "maträtt": "BBQ Fläsksida med majskolvar och vitlöksdressing",
+            "ingredienser": [
+                "400 g fläsksida",
+                "2 dl BBQ-sås (köpt)",
+                "1 tsk paprikapulver",
+                "1 tsk vitlökspulver",
+                "1 tsk lökpulver",
+                "1 paket förkokta majskolvar",
+                "1 dl majonnäs",
+                "1 dl gräddfil",
+                "2 vitlöksklyftor",
+                "1 citron"
+            ],
+            "pris": 103
+        },
+        {
+            "maträtt": "Fläskkarre Sandwich med pommes frites",
+            "ingredienser": [
+                "500 g fläskkarre",
+                "1 stor tomat, skivad",
+                "1 lök, skivad",
+                "Salladsblad",
+                "2 msk majonnäs",
+                "2 msk favoritsås (till exempel BBQ-sås eller jensens)",
+                "1 påse pommes frittes",
+                "Olja att frittera i"
+            ],
+            "pris": 124
+        },
+        {
+            "maträtt": "Fläsksida i ugn med rotsaker, vitlöksbröd och sås",
+            "ingredienser": [
+                "400 g fläsksida",
+                "5 potatisar",
+                "4 morötter",
+                "2 msk honung",
+                "2 rödlökar",
+                "2 palsternackor",
+                "Färsk rosmarin eller timjan",
+                "1 baguette",
+                "3 vitlöksklyftor",
+                "2 msk smör",
+                "Färsk persilja",
+                "1 dl crème fraîche",
+                "1 tsk dijonsenap",
+                "1 citron"
+            ],
+            "pris": 157
+        },
+        {
+            "maträtt": "Ribeye Steak Dinner",
+            "ingredienser": [
+                "600 g Ribeye-biffar",
+                "4 stora potatisar",
+                "1 knippe färsk sparris",
+                "4 vitlöksklyftor",
+                "2 dl rödvin",
+                "1 dl oxfond",
+                "2 msk smör",
+                "2 charlottenlökar",
+                "2 vitlöksklyftor",
+                "1 tsk timjan",
+                "2 tsk maizena"
+            ],
+            "pris": 405
+        },
+        {
+            "maträtt": "Filet Mignon Dinner med rostad vitlöks-potatismos, bearnaisesås och smörstekt broccoli",
+            "ingredienser": [
+                "600 g entrecotte",
+                "10 små potatisar",
+                "1 hel vitlök",
+                "2 dl mjölk",
+                "50 g smör",
+                "1 burk bearnaisesås",
+                "400 g broccoli/brysselkål"
+            ],
+            "pris": 245
+        },
+        {
+            "maträtt": "New York Strip Steak Dinner med potatisgratäng, grön bönsallad och rödvinssås",
+            "ingredienser": [
+                "4 New York Strip-biffar",
+                "500 g potatis",
+                "2 dl grädde",
+                "1 dl mjölk",
+                "1 lök",
+                "1 dl riven ost (cheddar eller parmesan)",
+                "300 g färska gröna bönor",
+                "1/2 rödlök",
+                "2 msk olivolja",
+                "1 msk rödvinsvinäger",
+                "2 dl rött vin",
+                "2 charlottenlökar",
+                "2 vitlöksklyftor",
+                "2 dl köttbuljong",
+                "2 msk smör",
+                "1 msk mjöl"
+            ],
+            "pris": 230
+        },
+        {
+            "maträtt": "Steak and Ale Pie med mosad potatis och gröna ärtor och gravy",
+            "ingredienser": [
+                "500 g nötkött (högrev eller bog)",
+                "2 lökar",
+                "2 morötter",
+                "2 selleristjälkar",
+                "2 vitlöksklyftor",
+                "2 msk tomatpuré",
+                "2 tsk worcestershiresås",
+                "700 g potatis",
+                "200 g gröna ärtor",
+                "200 g smör",
+                "3,5 dl vetemjöl",
+                "2 dl köttbuljong",
+                "3 dl ale"
+            ],
+            "pris": 215
+        },
+        {
+            "maträtt": "Steak Salad med tomater, avokado, blåmögelost och balsamvinägerdressing",
+            "ingredienser": [
+                "400 g entrecôte",
+                "4 tomater",
+                "2 avokado",
+                "100 g blåmögelost",
+                "1/2 påse babyspenat",
+                "3 msk olivolja",
+                "2 msk balsamvinäger",
+                "1 tsk honung"
+            ],
+            "pris": 232
+        },
+        {
+            "maträtt": "Fläskkarré med grönpepparsås, klyftpotatis och stekta grönsaker",
+            "ingredienser": [
+                "4 bitar fläskkarré",
+                "2 msk grönpepparkorn",
+                "2 dl vispgrädde",
+                "1 påse klyftpotatis",
+                "Färsk rosmarin",
+                "2 msk olivolja",
+                "1 tsk paprikapulver",
+                "1/2 zucchini",
+                "1 rödlök",
+                "150 g champinjoner"
+            ],
+            "pris": 229
+        },
+        {
+            "maträtt": "Fläskkarré med svartvinbärssås, klyftpotatis och gröna bönor",
+            "ingredienser": [
+                "4 bitar fläskkarré",
+                "2 dl svartvinbär (frysta)",
+                "1 dl socker",
+                "1 msk rödvinsvinäger",
+                "1 skvätt rödvin",
+                "1 påse klyftpotatis",
+                "Färsk rosmarin",
+                "300 g gröna bönor"
+            ],
+            "pris": 235
+        },
+        {
+            "maträtt": "Fläskkarré med ädelostsås, rostad potatis och broccoli",
+            "ingredienser": [
+                "4 bitar fläskkarré",
+                "200 g ädelost (t.ex. Danablu eller liknande)",
+                "2 dl vispgrädde",
+                "600 g potatis",
+                "Färsk rosmarin",
+                "1 broccoli"
+            ],
+            "pris": 235
+        },
+        {
+            "maträtt": "Biff med bearnaisesås, klyftpotatis och grillade grönsaker",
+            "ingredienser": [
+                "4 biffar (entrecôte eller ryggbiff)",
+                "1 burk kall bearnaisesås",
+                "1 påse klyftpotatis",
+                "2 msk olivolja",
+                "1 tsk paprikapulver",
+                "1/2 zucchini",
+                "1 rödlök",
+                "150 g champinjoner"
+            ],
+            "pris": 272
+        },
+        {
+            "maträtt": "Carpaccio",
+            "ingredienser": [
+                "400 g tunt skivat nötkött (gärna entrecôte)",
+                "6 msk extra jungfruolivolja",
+                "1 citron",
+                "4 dl babyspenat",
+                "2 dl parmesanost",
+                "1 tsk dijonsenap",
+                "1 tsk vitvinsvinäger",
+                "1 tsk honung",
+                "Krutonger",
+                "2 dl kapris",
+                "1 rödlök"
+            ],
+            "pris": 276
+        },
+        {
+            "maträtt": "Biff med bakad potatis och stekt svamp med sås",
+            "ingredienser": [
+                "4 biffar (entrecôte eller ryggbiff)",
+                "4 bakpotatisar",
+                "250 g champinjoner",
+                "4 msk smör",
+                "2 vitlöksklyftor",
+                "Färsk timjan eller rosmarin",
+                "1 dl grädde",
+                "2 msk dijonsenap",
+                "1 msk balsamvinäger"
+            ],
+            "pris": 277
+        },
+        {
+            "maträtt": "Killer Steak Sandwich",
+            "ingredienser": [
+                "2 biffar (entrecôte eller ryggbiff)",
+                "2 vitlöksklyftor",
+                "2 msk sojasås",
+                "1 msk balsamvinäger",
+                "1 tsk Worcestershiresås",
+                "1 tsk dijonsenap",
+                "1 tsk honung",
+                "1 nypa torkad rosmarin",
+                "1 nypa torkad timjan",
+                "1 baguette",
+                "1 tomat",
+                "1 lök",
+                "1 litet salladshuvud",
+                "1 dl majonnäs"
+            ],
+            "pris": 175
+        },
+        {
+            "maträtt": "Biff med chimichurri-sås, rostad potatis och grönsaker",
+            "ingredienser": [
+                "4 biffar (entrecôte eller ryggbiff)",
+                "1 kruka färsk persilja",
+                "4 vitlöksklyftor",
+                "2 msk rödvinsvinäger",
+                "1 msk citronsaft",
+                "1 tsk torkad oregano",
+                "1/2 tsk chiliflakes",
+                "1/2 dl olivolja",
+                "1 påse klyftpotatis",
+                "1 broccoli",
+                "1 paprika",
+                "2 morötter"
+            ],
+            "pris": 276
+        },
+        {
+            "maträtt": "Ryggbiff med rödvinssås, potatismos och grillad sparris",
+            "ingredienser": [
+                "4 ryggbiffar",
+                "1 lök",
+                "2 dl rött vin",
+                "2 dl köttbuljong",
+                "2 msk tomatpuré",
+                "2 msk maizena (majsstärkelse) eller potatismjöl",
+                "6 stora potatisar",
+                "1 dl mjölk",
+                "2 msk smör",
+                "1 knippe sparris"
+            ],
+            "pris": 317
+        },
+        {
+            "maträtt": "Biff med pepparsås, pommes frites och broccoli",
+            "ingredienser": [
+                "4 ryggbiffar",
+                "1 lök",
+                "2 dl grädde",
+                "2 msk konjak",
+                "2 tsk hel peppar",
+                "1 msk dijonsenap",
+                "1 påse pommes frites",
+                "Olja att frittera med",
+                "1 broccoli"
+            ],
+            "pris": 280
+        },
+        {
+            "maträtt": "Bulgogi med ris, kimchi, gurka, stekt ägg och dippsås",
+            "ingredienser": [
+                "500 gram entrecotte (slicad hos charken)",
+                "1/2 lök",
+                "2 vitlöksklyftor",
+                "2 msk sesamolja",
+                "2 msk sojasås",
+                "1 msk socker (gärna brunt socker)",
+                "1 msk mirin",
+                "1 msk päronpuré eller äppelpuré",
+                "1 tsk ingefära",
+                "Sesamfrön",
+                "1 salladslök",
+                "4 msk sesamolja",
+                "2 msk kochujang",
+                "4 dl ris",
+                "2 dl Kimchi färdigköpt",
+                "1 gurka",
+                "4 msk Ssamjang",
+                "4 st ägg"
+            ],
+            "pris": 300
+        },
+        {
+            "maträtt": "Galbi med Kimchi gurka salladswraps",
+            "ingredienser": [
+                "1,5-2 kg tjocka revbensspjäll",
+                "2,5 dl sojasås",
+                "1,5 dl socker (gärna brunt socker)",
+                "1,5 dl päronpuré eller äppelpuré",
+                "1/5 dl mirin",
+                "4 vitlöksklyftor",
+                "1 lök",
+                "3 salladslökar",
+                "1 msk ingefära",
+                "1 tsk sesamfrön",
+                "4 msk ssamjang",
+                "1 salladshuvud",
+                "2 salladslökar",
+                "1 gurka",
+                "6 msk sesamolja",
+                "2 msk kochujang",
+                "1 hel vitlök"
+            ],
+            "pris": 400
+        },
+        {
+            "maträtt": "Samgyeopsal",
+            "ingredienser": [
+                "500 gram stekfläsk eller sidfläsk",
+                "2 dl Kimchi färdigköpt",
+                "4 msk ssamjang",
+                "1 salladshuvud",
+                "2 salladslökar",
+                "1 gurka",
+                "4 msk sesamolja",
+                "2 msk kochujang",
+                "1 hel vitlök"
+            ],
+            "pris": 110
+        },
+        {
+            "maträtt": "Dak Galbi med ris kimchi gurka och stekt ägg",
+            "ingredienser": [
+                "500 gram kycklinglårfille",
+                "1/4 kålhuvud",
+                "1 morot ",
+                "1 paprika",
+                "1 lök",
+                "3 vitlöksklyftor",
+                "2 msk chiliflingor",
+                "2 msk gochujang",
+                "2 msk sojasås",
+                "1 msk socker eller honung",
+                "1 msk sesamolja",
+                "1 msk ingefära",
+                "4 dl ris",
+                "2 dl kimchi ",
+                "1 gurka",
+                "4 st ägg",
+                "4 msk Ssamjang"
+            ],
+            "pris": 180
+        },
+        {
+            "maträtt": "Jeyuk Bokkeum med ris kimchi gurka och stekt ägg",
+            "ingredienser": [
+                "500 gram fläsksida",
+                "1 lök",
+                "3 vitlöksklyftor",
+                "2 morötter",
+                "4 salladslökar",
+                "1 msk chilly flakes",
+                "2 msk sojasås",
+                "1 msk sesamolja",
+                "1 msk honung",
+                "1 msk ingefära",
+                "1 msk rostade sesamfrön",
+                "4 dl ris",
+                "2 dl kimchi",
+                "1 gurka",
+                "4 msk Ssamjang",
+                "4 st ägg"
+            ],
+            "pris": 170
+        },
+        {
+            "maträtt": "Bakad potatis med tillbehör",
+            "ingredienser": [
+                "4 st bakpotatisar",
+                "1 paket tonfiskröra",
+                "1 paket kycklingröra"
+            ],
+            "pris": 100
+        },
+        {
+            "maträtt": "Plockmat",
+            "ingredienser": [
+                "200 g Salami",
+                "150 g Prosciutto",
+                "150 g Chorizo",
+                "150g små ölkorvar",
+                "1 burk oliver",
+                "150 g Brie",
+                "100 g Camembert",
+                "100 g Gorgonzola",
+                "100 g Manchego",
+                "1 baguette",
+                "1 paket tuc-kex"
+            ],
+            "pris": 300
+        }
+    ]
+}
